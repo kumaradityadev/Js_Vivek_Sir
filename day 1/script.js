@@ -1,3 +1,4 @@
+
 // var x ;
 // x = 10;
 // x = 20;
@@ -44,4 +45,3 @@ function enterEmotion (name,mood){
 enterEmotion('Aditya','Good')
 enterEmotion('Aditya','Good')
 enterEmotion('Aditya','Good')
-
